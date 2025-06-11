@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    background-color: #212121;
+    color: rgb(255, 255, 255);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h2{
+    color: yellow;
+}
+.main-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#child-div{
+    border: 1px solid white;
+    padding: 1rem 2rem;
+    border-radius: 4px;
+    margin-top: 4rem;
+}
+p{
+    margin-top: 30%;
+}
